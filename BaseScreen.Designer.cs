@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp1
 {
-    partial class Form1
+    partial class BaseScreen
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,18 +28,43 @@
         /// </summary>
         private void InitializeComponent()
         {
+            panel1 = new Panel();
+            panel2 = new Panel();
             SuspendLayout();
             // 
-            // Form1
+            // panel1
+            // 
+            panel1.BackColor = SystemColors.ActiveCaption;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(293, 575);
+            panel1.TabIndex = 0;
+            // 
+            // panel2
+            // 
+            panel2.BackColor = SystemColors.ButtonFace;
+            panel2.Location = new Point(288, 0);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(929, 575);
+            panel2.TabIndex = 1;
+            // 
+            // BaseScreen
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Name = "Form1";
-            Text = "BasePage";
+            BackColor = Color.White;
+            ClientSize = new Size(1217, 573);
+            Controls.Add(panel2);
+            Controls.Add(panel1);
+            Name = "BaseScreen";
+            Text = "BaseScreen";
+            Load += BaseScreen_Load;
             ResumeLayout(false);
         }
 
         #endregion
+
+        protected Panel panel1;
+        protected Panel panel2;
     }
 }
