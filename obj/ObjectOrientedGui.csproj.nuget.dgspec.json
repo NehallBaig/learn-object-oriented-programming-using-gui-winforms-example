@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nehal\\Desktop\\New folder (5)\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj": {}
+    "C:\\Users\\Nehal\\Desktop\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nehal\\Desktop\\New folder (5)\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj": {
+    "C:\\Users\\Nehal\\Desktop\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nehal\\Desktop\\New folder (5)\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj",
+        "projectUniqueName": "C:\\Users\\Nehal\\Desktop\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj",
         "projectName": "ObjectOrientedGui",
-        "projectPath": "C:\\Users\\Nehal\\Desktop\\New folder (5)\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj",
+        "projectPath": "C:\\Users\\Nehal\\Desktop\\learn-object-oriented-programming-using-gui-winforms-example\\ObjectOrientedGui.csproj",
         "packagesPath": "C:\\Users\\Nehal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nehal\\Desktop\\New folder (5)\\learn-object-oriented-programming-using-gui-winforms-example\\obj\\",
+        "outputPath": "C:\\Users\\Nehal\\Desktop\\learn-object-oriented-programming-using-gui-winforms-example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nehal\\AppData\\Roaming\\NuGet\\NuGet.Config",
