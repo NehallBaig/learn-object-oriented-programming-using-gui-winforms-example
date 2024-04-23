@@ -126,6 +126,7 @@
             Name = "Screen2";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Screen2";
+            FormClosing += Screen2_FormClosing;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel2.ResumeLayout(false);

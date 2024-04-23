@@ -16,6 +16,9 @@
     <Compile Update="Screen2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="StudentScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TeacherScreen.cs">
       <SubType>Form</SubType>
     </Compile>

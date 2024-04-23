@@ -20,11 +20,11 @@ namespace ObjectOrientedGui
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if(txtUsername.Text.Equals("") && txtPassword.Text.Equals(""))
+            if(txtUsername.Text.Equals("admin") && txtPassword.Text.Equals("admin"))
             {
-                BaseScreen baseScreen = new BaseScreen();
+                Home home = new Home();
                 this.Hide();
-                baseScreen.Show();
+                home.Show();
             }
         }
     }
