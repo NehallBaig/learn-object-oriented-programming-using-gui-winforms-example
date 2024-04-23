@@ -35,5 +35,17 @@ namespace ObjectOrientedGui
         {
             MessageBox.Show("I am parent's class delete method");
         }
+
+        private void Screen2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+                e.Cancel = true;
+                this.Hide();
+
+                Home home = new Home();
+                home.Show();
+            }
+        }
     }
 }

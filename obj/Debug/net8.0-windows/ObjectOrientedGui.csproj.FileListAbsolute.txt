@@ -39,3 +39,27 @@ C:\Users\Nehal\Desktop\learn-object-oriented-programming-using-gui-winforms-exam
 C:\Users\Nehal\Desktop\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.pdb
 C:\Users\Nehal\Desktop\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.genruntimeconfig.cache
 C:\Users\Nehal\Desktop\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ref\ObjectOrientedGui.dll
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\bin\Debug\net8.0-windows\ObjectOrientedGui.exe
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\bin\Debug\net8.0-windows\ObjectOrientedGui.deps.json
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\bin\Debug\net8.0-windows\ObjectOrientedGui.runtimeconfig.json
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\bin\Debug\net8.0-windows\ObjectOrientedGui.dll
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\bin\Debug\net8.0-windows\ObjectOrientedGui.pdb
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\WinFormsApp1.BaseScreen.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.Form1.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.Home.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.Login.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.Properties.Resources.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.Screen2.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.TeacherScreen.resources
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.csproj.GenerateResource.cache
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.AssemblyInfoInputs.cache
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.AssemblyInfo.cs
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.csproj.CoreCompileInputs.cache
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.sourcelink.json
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.dll
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\refint\ObjectOrientedGui.dll
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.pdb
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.genruntimeconfig.cache
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ref\ObjectOrientedGui.dll
+C:\Users\Nehal\Desktop\New folder (8)\learn-object-oriented-programming-using-gui-winforms-example\obj\Debug\net8.0-windows\ObjectOrientedGui.StudentScreen.resources

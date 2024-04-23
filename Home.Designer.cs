@@ -75,6 +75,7 @@
             btnStudent.TabIndex = 1;
             btnStudent.Text = "Student";
             btnStudent.UseVisualStyleBackColor = true;
+            btnStudent.Click += btnStudent_Click;
             // 
             // btnTeacher
             // 
