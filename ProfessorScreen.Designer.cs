@@ -1,6 +1,6 @@
 ﻿namespace ObjectOrientedGui
 {
-    partial class StudentScreen
+    partial class ProfessorScreen
     {
         /// <summary>
         /// Required designer variable.
@@ -33,16 +33,16 @@
             // 
             // screenLabel
             // 
-            screenLabel.Size = new Size(63, 21);
-            screenLabel.Text = "Student";
+            screenLabel.Size = new Size(76, 21);
+            screenLabel.Text = "Professor";
             // 
-            // StudentScreen
+            // ProfessorScreen
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1217, 573);
-            Name = "StudentScreen";
-            Text = "StudentScreen";
+            Name = "ProfessorScreen";
+            Text = "ProfessorScreen";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

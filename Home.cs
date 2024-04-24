@@ -31,5 +31,13 @@ namespace ObjectOrientedGui
             this.Hide();
             studentScreen.Show();
         }
+
+        private void btnProfessor_Click(object sender, EventArgs e)
+        {
+            ProfessorScreen professorScreen = new ProfessorScreen();
+            this.Hide();
+            professorScreen.Show();
+
+        }
     }
 }
