@@ -66,6 +66,7 @@
             btnProfessor.TabIndex = 2;
             btnProfessor.Text = "Professor";
             btnProfessor.UseVisualStyleBackColor = true;
+            btnProfessor.Click += btnProfessor_Click;
             // 
             // btnStudent
             // 
