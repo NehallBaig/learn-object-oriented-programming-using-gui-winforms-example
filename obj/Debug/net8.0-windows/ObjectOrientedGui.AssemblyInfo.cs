@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObjectOrientedGui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792603d0d6b8a54d805f9aa6e500d88d8574bf9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b07b6f2ae1e057a1accba2e5389c64fb8dd168b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObjectOrientedGui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObjectOrientedGui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
