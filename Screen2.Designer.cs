@@ -55,6 +55,7 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.BackgroundColor = SystemColors.ScrollBar;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(11, 74);
             dataGridView1.Name = "dataGridView1";
@@ -137,7 +138,7 @@
 
         #endregion
 
-        private DataGridView dataGridView1;
+        protected DataGridView dataGridView1;
         private Label label1;
         private TextBox textBox1;
         private Button button3;
